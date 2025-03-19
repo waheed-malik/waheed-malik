@@ -1,4 +1,4 @@
-(https://github.com/waheed-malik/waheed-malik/edit/main/README.md/Copy%20of%20Black%20And%20Purple%20Gradient%20Modern%20Minimalist%20Linked%20In%20Banner.jpg)
+![(https://github.com/waheed-malik/waheed-malik/edit/main/README.md/Copy%20of%20Black%20And%20Purple%20Gradient%20Modern%20Minimalist%20Linked%20In%20Banner.jpg)]
 <h1 align="center">Hi 👋, I'm Malik Waheed</h1>
 <h3 align="center">A passionate Web & WordPress Developer from Pakistan 🇵🇰</h3>
 
