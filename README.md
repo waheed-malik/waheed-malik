@@ -1,4 +1,4 @@
-![logo](https://github.com/waheed-malik/waheed-malik/blob/deda99526b6887aa71eef2d445b91f248218445e/Black%20And%20Purple%20Gradient%20Modern%20Minimalist%20Linked%20In%20Banner%20(1).jpg)
+![logo](https://github.com/waheed-malik/Copy of Black And Purple Gradient Modern Minimalist Linked In Banner.jpg)
 <h1 align="center">Hi 👋, I'm Malik Waheed</h1>
 <h3 align="center">A passionate Web & WordPress Developer from Pakistan 🇵🇰</h3>
 
